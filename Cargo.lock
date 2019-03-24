@@ -483,7 +483,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "timothyonyiuke_net"
+name = "timonyiuke_net"
 version = "0.1.0"
 dependencies = [
  "diesel 1.4.1 (registry+https://github.com/rust-lang/crates.io-index)",
